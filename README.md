@@ -107,7 +107,6 @@ mysqldump -t -uu1738662_whjproperty -pnz^.6ahN9]4^ -h127.0.0.1 -t u1738662_whjpr
 ## Authors
 
 - [@fahmiyonda007](https://www.github.com/fahmiyonda007)
-- [@muzaenigos](https://www.github.com/muzaenigos)
 
 
 ## Features
